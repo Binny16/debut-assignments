@@ -11,7 +11,7 @@
     <h5>Demo data</h5>
     <p>
         class car{function car(){$this->model = "ford";}}<br />
-        $age = 20; <br>
+        $age = 500; <br>
         $interest = 3050.75;<br>
         $name = "vinay";<br>
         $hobbies = array("cycling", "swimming", "watching movies");<br>
